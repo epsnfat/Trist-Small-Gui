@@ -8,3 +8,5 @@ A Management UI Create by Qt With C++
 ## Launch
 	open /Your Program Path/hermes-small-gui/build/apphermessmallgui.app
 
+
+![Renderings image]./view_main.png
